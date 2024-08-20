@@ -19,7 +19,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.26.0",
+    "@babel/cli": "^7.24.8",
     "@babel/preset-env": "^7.26.0",
     "nodemon": "^2.0.2",
     "eslint": "^6.4.0",
